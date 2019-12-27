@@ -1,3 +1,8 @@
+<h1 align="center">Ответвление (fork) OpenAPI Generator (оригинальный форк - https://github.com/Xambey/openapi-generator )</h1>
+<h2>Список исправлений:</h2>
+<h2>транспилирование типа date => Date</h2>
+<h2>исправлена проблема с отрезанием времени у типа date-time</h2>
+
 <h1 align="center">OpenAPI Generator</h1>
 
 <div align="center">
